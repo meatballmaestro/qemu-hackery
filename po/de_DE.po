@@ -16,74 +16,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#: ui/gtk.c:275
-msgid " - Press Ctrl+Alt+G to release grab"
-msgstr " - Strg+Alt+G drücken, um Eingabegeräte freizugeben"
+#~ msgid " - Press Ctrl+Alt+G to release grab"
+#~ msgstr " - Strg+Alt+G drücken, um Eingabegeräte freizugeben"
 
-#: ui/gtk.c:279
-msgid " [Paused]"
-msgstr " [Angehalten]"
+#~ msgid " [Paused]"
+#~ msgstr " [Angehalten]"
 
-#: ui/gtk.c:1922
-msgid "_Pause"
-msgstr "_Angehalten"
+#~ msgid "_Pause"
+#~ msgstr "_Angehalten"
 
-#: ui/gtk.c:1928
-msgid "_Reset"
-msgstr "_Reset"
+#~ msgid "_Reset"
+#~ msgstr "_Reset"
 
-#: ui/gtk.c:1931
-msgid "Power _Down"
-msgstr "_Herunterfahren"
+#~ msgid "Power _Down"
+#~ msgstr "_Herunterfahren"
 
-#: ui/gtk.c:1937
-msgid "_Quit"
-msgstr "_Beenden"
+#~ msgid "_Quit"
+#~ msgstr "_Beenden"
 
-#: ui/gtk.c:2029
-msgid "_Fullscreen"
-msgstr "_Vollbild"
+#~ msgid "_Fullscreen"
+#~ msgstr "_Vollbild"
 
-#: ui/gtk.c:2032
-msgid "_Copy"
-msgstr "_Kopieren"
+#~ msgid "_Copy"
+#~ msgstr "_Kopieren"
 
-#: ui/gtk.c:2048
-msgid "Zoom _In"
-msgstr "_Heranzoomen"
+#~ msgid "Zoom _In"
+#~ msgstr "_Heranzoomen"
 
-#: ui/gtk.c:2055
-msgid "Zoom _Out"
-msgstr "_Wegzoomen"
+#~ msgid "Zoom _Out"
+#~ msgstr "_Wegzoomen"
 
-#: ui/gtk.c:2062
-msgid "Best _Fit"
-msgstr "_Einpassen"
+#~ msgid "Best _Fit"
+#~ msgstr "_Einpassen"
 
-#: ui/gtk.c:2069
-msgid "Zoom To _Fit"
-msgstr "Auf _Fenstergröße skalieren"
+#~ msgid "Zoom To _Fit"
+#~ msgstr "Auf _Fenstergröße skalieren"
 
-#: ui/gtk.c:2075
-msgid "Grab On _Hover"
-msgstr "Tastatur _automatisch einfangen"
+#~ msgid "Grab On _Hover"
+#~ msgstr "Tastatur _automatisch einfangen"
 
-#: ui/gtk.c:2078
-msgid "_Grab Input"
-msgstr "_Eingabegeräte einfangen"
+#~ msgid "_Grab Input"
+#~ msgstr "_Eingabegeräte einfangen"
 
-#: ui/gtk.c:2107
-msgid "Show _Tabs"
-msgstr "Reiter anzeigen"
+#~ msgid "Show _Tabs"
+#~ msgstr "Reiter anzeigen"
 
-#: ui/gtk.c:2110
-msgid "Detach Tab"
-msgstr "Reiter abtrennen"
+#~ msgid "Detach Tab"
+#~ msgstr "Reiter abtrennen"
 
-#: ui/gtk.c:2122
-msgid "_Machine"
-msgstr "_Maschine"
+#~ msgid "_Machine"
+#~ msgstr "_Maschine"
 
-#: ui/gtk.c:2127
-msgid "_View"
-msgstr "_Ansicht"
+#~ msgid "_View"
+#~ msgstr "_Ansicht"
