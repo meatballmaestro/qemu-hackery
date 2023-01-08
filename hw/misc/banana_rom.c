@@ -36,16 +36,8 @@ static uint64_t banana_rom_read(void *opaque, hwaddr addr, unsigned int size)
     return 0;
 }
 
-static void banana_rom_write(void *opaque, hwaddr addr, uint64_t data, unsigned size)
-{
-    FILE *log = fopen("/home/kmstout/log", "a");
-    fprintf(log, "writing %u bytes to %lx\n", size, addr);
-    fclose(log);
-}
-    
 static const MemoryRegionOps banana_rom_ops = {
     .read = banana_rom_read,
-    .write = banana_rom_write,
     .endianness = DEVICE_NATIVE_ENDIAN,
 };
 
@@ -72,6 +64,7 @@ static void banana_rom_register_types(void)
 }
 
 type_init(banana_rom_register_types)
+
 
 DeviceState* banana_rom_create(hwaddr addr)
 {
