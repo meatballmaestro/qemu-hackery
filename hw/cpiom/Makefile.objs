@@ -1,0 +1,1 @@
+obj-y += board.o dev1.o dev2.o
